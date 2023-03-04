@@ -338,6 +338,9 @@ footer{
     padding-top: 9rem;
     font-size: 0.9rem;
 }
+footer h4{
+    color:#fff;
+}
 .footer_container{
     display:grid;
     grid-template-columns: repeat(4,1fr);
@@ -348,6 +351,7 @@ footer{
 }
 .footer_1 p{
     margin: 0 0 2rem;
+    color:#fff;
 }
 
 footer ul li{
