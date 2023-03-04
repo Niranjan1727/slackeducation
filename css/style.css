@@ -338,7 +338,7 @@ footer{
     padding-top: 9rem;
     font-size: 0.9rem;
 }
-footer h4{
+footer h4, p{
     color:#fff;
 }
 .footer_container{
