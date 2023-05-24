@@ -135,7 +135,7 @@ margin-top: 1.4rem;
         grid-template-columns: 1fr
     }
     .team_container{
-        grid-template-columns:fr 1fr;
+        grid-template-columns:1fr 1fr;
         gap: 0.7rem;
     }
     .team_member{
